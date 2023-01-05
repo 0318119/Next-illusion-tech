@@ -1,0 +1,2335 @@
+@media screen and (max-width:1730px){
+    .soical-icon ul li a i{
+        font-size: 20px;
+        width: 28px;
+    }
+}
+@media screen and (max-width:1600px) {
+    .mega-box {
+        position: absolute;
+        float: right;
+        width: 60%;
+    }
+    .view-btn {
+        font-size: 13px
+    }
+    .client-carousel .owl-nav .owl-next {
+        bottom: 40px
+    }
+    .client-carousel .owl-nav .owl-prev {
+        top: -48px
+    }
+    .main-service span::before {
+        width: 215px;
+        bottom: 50px
+    }
+    .main-service span::after {
+        width: 215px;
+        bottom: 50px
+    }
+    .main-cta::before {
+        width: 29%
+    }
+    .main-portfolio::before {
+        width: 338px
+    }
+    .portfolio-text {
+        padding-left: 55px;
+        padding-right: 0
+    }
+    
+.portfolio-box::after {
+
+    width: 300px;
+    left: -159px;
+    bottom: -63px;
+
+}
+    .portfolio-btn {
+        padding: 15px 24px;
+        margin-right: 17px
+    }
+    .main-portfolio::after {
+        bottom: 12%
+    }
+    .ready-work-img {
+        left: 11%
+    }
+    .main-ready-work::before {
+        width: 25%
+    }
+    .main-ready-work::after {
+        right: 62px;
+        width: 163px
+    }
+    .main-transforming::before {
+        width: 228px
+    }
+    .main-transforming::after {
+        width: 219px;
+        bottom: 10px
+    }
+    .main-transforming span::after {
+        width: 20px;
+        height: 160px
+    }
+    .main-testi::after {
+        width: 165px;
+        top: 30%;
+        background-repeat: no-repeat
+    }
+    .agency-bg {
+        width: 53%
+    }
+    .main-agency {
+        height: 622px
+    }
+    .mobile-agency {
+        padding-top: 65px
+    }
+    .contact-btn-sbt {
+        padding: 15px 80px
+    }
+    .review-slider {
+        top: 425px
+    }
+}
+@media screen and (max-width:1440px) {
+    .nav-links li a{
+        font-size: 14px;
+    }
+    .header::before {
+        width: 68%
+    }
+    .slider-banner {
+        background-position: 66% 40%
+    }
+    .view-btn {
+        padding: 10px 30px
+    }
+    .main-cta::before {
+        width: 27%
+    }
+    .main-portfolio::before {
+        width: 300px
+    }
+    .portfolio-box::after {
+        width: 260px;
+        left: -185px;
+        bottom: -96px
+    }
+    .portfolio-text {
+        padding-left: 50px;
+        padding-right: 30px
+    }
+    .portfolio-text h3 {
+        font-size: 50px
+    }
+    .portfolio-text p {
+        padding-right: 0
+    }
+    .portfolio-btn-2 img {
+        padding-left: 7px;
+        width: auto
+    }
+    .portfolio-btn-2 {
+        font-size: 13px
+    }
+    .portfolio-btn {
+        padding: 15px 15px;
+        margin-right: 16px;
+        font-size: 14px
+    }
+    .main-ready-work::before {
+        width: 22%
+    }
+    .ready-work-img {
+        left: 9%
+    }
+    .main-ready-work::after {
+        right: 25px;
+        width: 133px;
+        height: 45px
+    }
+    .ready-btn .portfolio-btn-2 img {
+        padding-left: 7px;
+        width: 25%
+    }
+    .main-transforming::before {
+        width: 158px;
+        height: 150px
+    }
+    .main-transforming::after {
+        width: 159px;
+        bottom: -40px
+    }
+    .main-transforming span::before {
+        width: 50px;
+        height: 55px;
+        left: 45px;
+        top: -2px
+    }
+    .main-transforming span::after {
+        width: 30px;
+        height: 130px;
+        left: 30px;
+        top: 445px
+    }
+    .main-testi::after {
+        width: 145px;
+        top: 33%
+    }
+    .header::before {
+        width: 66%
+    }
+    .main-agency {
+        height: auto;
+        padding: 50px 0
+    }
+    .agency-text h3 {
+        font-size: 38px;
+        line-height: 56px
+    }
+    .main-platform::before {
+        width: 223px
+    }
+    .mobile-agency {
+        padding-top: 85px
+    }
+    .main-seo span::before {
+        width: 210px
+    }
+    .contact-btn-sbt {
+        padding: 15px 80px
+    }
+    .review-slider {
+        top: 456px
+    }
+    .main-portfolio .portfolio-btn-2 img {
+        width: 16%
+    }
+    .portfolio-text p {
+        font-size: 16px;
+        padding-top: 20px;
+        line-height: 26px
+    }
+    .slider-banner {
+    background-position: 42% 40%;
+}
+}
+@media screen and (max-width:1400px){
+    .services_player_container {
+        width: 98%;
+    }
+}
+@media screen and (max-width:1300px){
+    .modal-box .modal-dialog {
+        width: 70%;
+    } 
+}
+@media screen and (max-width:1366px) {
+    .nav-links li a{
+        padding: 9px 6px;
+    }
+    .view-btn {
+        padding: 10px 20px
+    }
+    .main-service span::before {
+        bottom: 30px
+    }
+    .main-service span::after {
+        bottom: 30px
+    }
+    .main-cta::before {
+        width: 25%
+    }
+    .portfolio-text h3 {
+        font-size: 40px
+    }
+    .portfolio-text p {
+        font-size: 16px;
+        line-height: 28px
+    }
+    .main-ready-work::before {
+        width: 21%
+    }
+    .ready-work-img {
+        left: 8%
+    }
+    .main-ready-work::after {
+        right: 14px;
+        width: 113px;
+        height: 35px;
+        bottom: 50px
+    }
+    .main-transforming::before {
+        width: 125px;
+        height: 125px
+    }
+    .main-transforming span::before {
+        left: 30px;
+        top: -24px
+    }
+    .main-transforming::after {
+        width: 129px;
+        bottom: -110px
+    }
+    .main-transforming span::after {
+        height: 119px;
+        left: 15px;
+        top: 500px
+    }
+    .main-testi::after {
+        width: 114px;
+        top: 38%
+    }
+    .agency-bg {
+        width: 56%;
+        height: 540px
+    }
+    .agency-bg img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover
+    }
+    .mobile::before {
+        width: 165px
+    }
+    .animation::before {
+        width: 173px
+    }
+    .animation span::before {
+        width: 200px
+    }
+    .mobile-agency {
+        padding-top: 115px
+    }
+    .main-platform::before {
+        width: 173px
+    }
+    .review-slider {
+        top: 469px
+    }
+    .slider-banner {
+        background-position: 83% 40%;
+        height: 590px;
+    }
+    .payment.slider-banner {
+        background-position: 83% 40%;
+        height: 350px;
+    }
+    .slider-text h4 {
+        line-height: 66px;
+    }
+    .portfolio-btn {
+        padding: 13px 15px;
+        margin-right: 15px;
+        font-size: 12px;
+    }.mega-box {
+        width: 100%;
+        top: 66px;
+        right: -20px;
+    }
+}
+@media(max-device-width:1366px) and (max-device-height:768px){
+    nav .wrapper {
+        padding: 50px 155px;
+    }
+    .pricingTable .title{
+        font-size: 25px;
+    }
+    .nav-links li .basic_link {
+        padding: 8px 15px;
+        position: relative;
+        right: -25px;
+    }
+    .ul_after {
+        line-height: 30px;
+    }
+    .form_box span {
+        margin-bottom: 15px;
+        font-size: 22px;
+    }
+    .icon_box i {
+        font-size: 22px;
+        padding: 0px 8px;
+        line-height: 36px;
+    }
+    .icon_box input {
+        height: 40px;
+        border-radius: 0;
+        border-left: 0;
+    }
+    .form_box .btn_contact {
+        padding: 15px 0px;
+        margin-top: 14px;
+        display: block;
+    }
+    .form_box {
+        padding: 18px;
+        margin: 18px;
+    }
+    .modal-box .modal-dialog .modal-content{
+        margin: auto;
+    }
+    .modal-content {
+       width: 70%;
+    }
+    .modal-box .modal-dialog .modal-content .modal-body .title {
+        font-size: 26px;
+        margin-top: 33px;
+        line-height: 33px;
+    }
+    .modal-box .modal-dialog .modal-content .modal-body .description {
+        font-size: 15px;
+        line-height: 21px;
+    }   
+    .slider-text h4 {
+        line-height: 39px;
+        font-size: 25px;
+        letter-spacing: 3px;
+    }
+    .slider-text h3 {
+        font-size: 25px;
+        letter-spacing: 4px;
+        margin-top: 20px;
+    }
+    .slider-text h3 span {
+        font-size: 29px;
+        padding: 5px 26px 9px 26px;
+        margin: -2px 0 0px 0;
+    }
+    .slider-img img {
+        width: 80%;
+        top: 0px;
+    }
+    .agency-text h3 {
+        font-size: 23px;
+        line-height: 31px;
+        letter-spacing: 2px;
+    }
+    .portfolio-text h3 {
+        font-size: 25px;
+        letter-spacing: 2px;
+    }
+    .main-portfolio::before {
+        width: 415px !important;
+    }
+    .portfolio-btn {
+        font-size: 16px !important;
+    }
+    .ready-text h3 {
+        font-size: 28px;
+        letter-spacing: 2px;
+        font-weight: 700;
+    }
+    .ready-text p {
+        width: 90%;
+        letter-spacing: 1px;
+    }
+    .service-heading h2 {
+        font-size: 30px;
+    }
+    .main-industries .service-heading h3 {
+        font-size: 27px;
+        letter-spacing: 1px;
+    }
+    .industrie-number h3 {
+        font-size: 23px;
+    }
+    .testi-heading h3 {
+        font-size: 30px;
+    }
+    .copyright-left p {
+        font-size: 16px;
+    }
+    .copyright-left ul li a {
+        font-size: 16px;
+    }
+    .slider-carousel-1 .slider-text h4 {
+        font-size: 30px;
+        line-height: 35px;
+    }
+    .slider-carousel-1 .slider-text p {
+        font-size: 17px;
+    }
+    .pricing-main-sec .service-heading h3 {
+        font-size: 30px;
+    }
+}
+@media screen and (max-width:1236px){
+    .mega-box {
+        width: 65%;
+    }
+    .ul_after{
+        width: 612px;
+        line-height: 28px;
+    }
+    .nav-links li a {
+        padding: 8px 15px;
+    }
+}
+@media screen and (max-width:1280px) {
+    .header::before {
+        width: 70%
+    }
+    .main-cta::before {
+        width: 23%
+    }
+    .portfolio-btn {
+    padding: 12px 11px;
+    margin-right: 9px;
+    font-size: 11px;
+}
+    .portfolio-box::after {
+        width: 260px;
+        left: -150px;
+        bottom: -90px
+    }
+    .main-portfolio::before {
+        width: 295px
+    }
+    .main-portfolio::after {
+        bottom: 8%
+    }
+    .main-ready-work::before {
+        width: 19%
+    }
+    .ready-work-img {
+        left: 6%
+    }
+    .main-ready-work::after {
+        right: 13px;
+        width: 92px;
+        bottom: 65px
+    }
+    .main-transforming::before {
+        width: 95px;
+        height: 88px
+    }
+    .main-transforming span::before {
+        left: 17px;
+        top: -36px
+    }
+    .main-transforming::after {
+        width: 102px;
+        left: -9px
+    }
+    .main-transforming span::after {
+        height: 88px;
+        left: 10px;
+        top: 497px
+    }
+    .testi-carousel .owl-nav button.owl-prev {
+        left: -75px
+    }
+    .testi-carousel .owl-nav button.owl-next {
+        right: -75px
+    }
+    .main-testi::after {
+        width: 83px;
+        top: 42%
+    }
+    .mobile-agency {
+        padding-top: 135px
+    }
+    .main-seo span::before {
+        width: 180px
+    }
+    .portfolio-tab .nav-link {
+        font-size: 16px
+    }
+    .contact-btn-sbt {
+        padding: 15px 80px
+    }
+    .review-slider {
+        top: 486px
+    }
+    .slider-banner {
+    background-position: 64% 40%;
+    height: 730px;
+}
+}
+@media screen and (max-width:1200px){
+    .services_player_box .services_player_icon_box h5 span {
+        font-size: 25px;
+    }
+    .services_player_box .services_player_icon_box h5 > img {
+        height: 50px;
+    }
+    .services_player_box .services_player_icon_box p {
+        font-size: 16px;
+        line-height: 22px;
+        padding: 10px 10px 20px 10px;
+    }
+    .all_card .slick-prev {
+        left: -33px;
+    }    
+    .all_card .slick-next {
+        right: -7px;
+    }
+}
+@media screen and (max-width:1100px){
+    .wrapper .logo img {
+        height: 58px;
+        width: unset;
+      }
+      .mega-box {
+        width: 80%;
+    }
+}
+@media screen and (max-width:900px){
+    .img_boxxx {
+        display: flex;
+        flex-direction: column;
+        border-top: 2px solid gray;
+    }
+    .tab-content .tab_img{
+        border: 0;
+        margin: auto;
+    }
+    .tab-content .content_box {
+        border-bottom: 0;
+    }
+    .pricingTable{
+         margin-bottom: 30px; 
+    }
+}
+@media screen and (max-width: 992px) {
+   .nav-links{
+       display: none;
+   }
+   #mobileNav{
+       display: block;
+   }
+   .humber_before:before{
+       display: block;
+   }
+   .modal-box .modal-dialog {
+    width: 75%;
+}
+.modal-box .modal-dialog .modal-content .modal-body {
+    width: auto !important;
+}
+.flex_box {
+    flex-direction: column;
+}
+.flex_box::before {
+    height: 38%;
+    width: -webkit-fill-available;
+}
+.modal-box .modal-dialog .modal-content .modal-body .title {
+    text-align: center;
+    line-height: 42px;
+}
+.modal-box .modal-dialog .modal-content .modal-body .description {
+    text-align: center;
+    line-height: 30px;
+}
+.form_box {
+    width: 80%;
+    margin: 38px auto;
+    position: relative;
+    top: -30px;
+}
+.modal-content {
+    display: unset;
+}
+.packges_container{
+    width: 100% !important;
+    max-width: unset !important;
+}
+.pac_tab .tab-content:before{
+    width: 100%;
+    left: 0;
+  }
+  .margin-cols{
+      flex: unset !important;
+      max-width: unset !important;
+      width: 50% !important;
+  }
+}
+@media screen and (max-width:1199px) {
+
+    .footer-contact img {
+        width: 236px;
+        height: 84px;
+    }
+    .footer_con {
+        padding-left: 26px !important;
+        padding-right: 10px !important;
+    }
+    .header::before {
+        width: 66%
+    }
+    .service-menu ul li {
+    padding-left: 18px;
+    padding-right: 18px;
+    }
+    .sticky .main-menu .service-menu ul li{
+        padding: 9px 20px;
+    }
+    .slider-text h4 {
+        font-size: 44px;
+        line-height: 60px
+    }
+    .slider-text p {
+        padding-right: 35px
+    }
+    .view-btn {
+        padding: 8px 13px
+    }
+    .cta-text h3 span {
+        font-size: 14px
+    }
+    .cta-contact ul li a span {
+        font-size: 14px
+    }
+    .cta-btn img {
+        padding-left: 5px;
+        width: 34%
+    }
+    .main-cta::before {
+        width: 25%
+    }
+    .portfolio-text h3 {
+        font-size: 30px
+    }
+    .portfolio-btn-2 {
+        font-size: 12px
+    }
+    .ready-work-contact .cta-contact ul li a span {
+        font-size: 13px
+    }
+    .transforming-tab .nav-tabs .nav-item {
+        margin-right: 12px
+    }
+    .testi-carousel .owl-nav button.owl-prev {
+        left: -95px
+    }
+    .testi-carousel .owl-nav button.owl-next {
+        right: -95px
+    }
+    .client-logo-carousel .item {
+        padding-top: 14px
+    }
+    .quick-link {
+        padding-left: 8px
+    }
+    .services-link {
+        padding-left: 0
+    }
+    .footer-link {
+        padding-left: 25px
+    }
+    .copyright-left p {
+        font-size: 18px;
+    }
+    .copyright-left ul li a {
+        font-size: 16px
+    }
+    .soical-right ul li {
+        margin: 0 2px
+    }
+    .soical-right ul li a {
+        width: 35px;
+        height: 35px;
+        line-height: 35px
+    }
+    .service-heading h3 {
+        font-size: 39px
+    }
+    .main-industries .service-heading h3 {
+        font-size: 35px
+    }
+    .industrie-point ul li {
+        font-size: 11px
+    }
+    .agency-text h3 {
+        font-size: 30px;
+        line-height: 47px
+    }
+    .platform-box p {
+        padding: 25px 8px
+    }
+    .slider-carousel-1 .slider-text h4 {
+        font-size: 41px
+    }
+    .agency-box-img {
+        padding-top: 167px
+    }
+    .serive-tab ul li .nav-link {
+        font-size: 17px
+    }
+    .portfolio-tab .nav-link {
+        font-size: 14px;
+        padding: 0 18px
+    }
+    .animation::before {
+        display: none
+    }
+    .animation span::before {
+        display: none
+    }
+    .logo-design-port-filter ul li {
+        font-size: 13px
+    }
+    .logo-design-port-head h4 {
+        font-size: 40px
+    }
+    .logo-design-port-head h6 {
+        font-size: 16px
+    }
+    .logo-design-port-head p {
+        font-size: 14px
+    }
+    .about-d-market-info h5 {
+        font-size: 49px
+    }
+    .digi-vision-box p {
+        font-size: 14px;
+        padding-right: 14px
+    }
+    .access-main-head h5 {
+        font-size: 45px
+    }
+    .access-content-box a {
+        font-size: 10px
+    }
+    .access-content-box p::before {
+        top: -18px
+    }
+    .access-content-box p {
+        font-size: 15px
+    }
+    .call-us-box p {
+        font-size: 15px
+    }
+    .review-slider {
+        top: 502px
+    }
+    .review-scroll {
+        margin: 25px 0
+    }
+    .indus-inner-wrap2 p {
+        font-size: 15px
+    }
+    .indus-inner-wrap1 h3 {
+        font-size: 20px
+    }
+    .review-hd-cont h2 {
+        font-size: 37px
+    }
+    .review-hd-cont p {
+        font-size: 14px;
+        line-height: 24px
+    }
+    .testi-box {
+        height: 400px;
+    }
+    div.img_box {
+        left: 20px;
+    }
+
+    div.img_box span {
+        left: 114%;
+    }
+    div.img_box > img {
+        left: -4px;
+    }
+    .img_scd_box {
+        display: flex;
+        flex-direction: column-reverse;
+    }
+    .hori_tab .nav-tabs li a {
+        padding: 16px 9px;
+        font-size: 15px;
+        letter-spacing: 2px;
+    }
+}
+@media screen and (max-width:991px) {
+    .shortslink{
+        padding-top: unset !important;
+    }
+    .img-center img {
+        margin: 30px auto 0 auto;
+        display: table;
+    }
+    .soical-icon {
+        display: none
+    }
+
+    .service-menu {
+        display: none
+    }
+    .slider-img {
+        display: none
+    }
+    .slider-banner {
+        background-position: top;
+        height: 485px;
+        padding: 0 0 0;
+    }
+    .slider-text h3{
+        font-size: 25px;
+    }
+    .slider-text h4 br {
+        display: none
+    }
+    .slider-text h4 {
+        font-size: 30px;
+        line-height: 30px
+    }
+    .client-text h3 br {
+        display: none
+    }
+    .client-text h3 {
+        color: #fff
+    }
+    .client-carousel .owl-nav {
+        display: none
+    }
+    .client-text {
+        padding-left: 0;
+        justify-content: center
+    }
+    .client-carousel .col-md-2 {
+        padding-right: 0;
+        padding-left: 0
+    }
+    .view-btn {
+        padding: 8px 25px
+    }
+    .navicon {
+        display: block
+    }
+    .top-contact ul {
+        align-items: center;
+        display: flex;
+        justify-content: end
+    }
+    .navicon {
+        padding-left: 20px
+    }
+    .service-heading h3 {
+        font-size: 45px
+    }
+    .main-service::before {
+        display: none
+    }
+    .service-heading p {
+        padding: 0 0
+    }
+    .main-service {
+        padding: 40px 0
+    }
+    .main-cta::before {
+        display: none
+    }
+    .cta-text {
+        display: none
+    }
+    .cta-btn img {
+        padding-left: 8px;
+        width: 37%
+    }
+    .cta-btn a {
+        font-size: 14px
+    }
+    .cta-contact ul li a span {
+        font-size: 13px
+    }
+    .main-cta {
+        height: auto;
+        padding: 20px 0
+    }
+    .cta-contact ul li i {
+        padding-right: 9px
+    }
+    .main-portfolio::before {
+        display: none
+    }
+    .main-portfolio::after {
+        display: none
+    }
+    .portfolio-box::before {
+        display: none
+    }
+    .portfolio-box::after {
+        display: none
+    }
+    .portfolio-text p {
+        padding-top: 3px;
+        padding-bottom: 25px
+    }
+    .portfolio-text h3 {
+        font-size: 37px
+    }
+    .portfolio-text h2 {
+        font-size: 21px
+    }
+    .portfolio-btn {
+        padding: 15px 34px;
+        margin-right: 30px;
+        font-size: 14px
+    }
+    .portfolio-btn-2 img {
+        padding-left: 7px;
+        width: auto
+    }
+    .portfolio-text {
+        padding-left: 30px;
+        padding-right: 30px;
+        padding-bottom: 40px
+    }
+    .main-portfolio {
+        padding: 40px 0
+    }
+    .ready-work-img {
+        display: none
+    }
+    .main-ready-work::before {
+        display: none
+    }
+    .main-ready-work::after {
+        display: none
+    }
+    .ready-text p {
+        font-size: 16px
+    }
+    .ready-work-contact .cta-contact ul li a span {
+        font-size: 12px
+    }
+    .cta-contact ul li a p {
+        font-size: 12px
+    }
+    .ready-work-contact .cta-contact ul li {
+        padding-right: 10px;
+        padding-left: 10px
+    }
+    .main-transforming::before {
+        display: none
+    }
+    .main-transforming::after {
+        display: none
+    }
+    .main-transforming span {
+        display: none
+    }
+    .testi-heading h3{
+        font-size: 30px !important;
+    }
+    .main-transforming {
+        height: auto;
+        padding: 40px 0
+    }
+    .testi-heading p br {
+        display: none
+    }
+    .main-testi::after {
+        display: none
+    }
+    .main-logo-client {
+        display: none
+    }
+    .footer-link {
+        padding-left: 0
+    }
+    .soical-right {
+        display: flex;
+        align-items: center;
+        height: 100%;
+        justify-content: end
+    }
+    .service-heading h3 {
+        font-size: 34px
+    }
+    .main-industries .service-heading h3 {
+        font-size: 30px
+    }
+    .jellywrap {
+        display: none
+    }
+    .agency-box-img {
+        display: none
+    }
+    .agency-bg {
+        display: none
+    }
+    .agency-text h3 {
+        font-size: 27px
+    }
+    .main-platform::before {
+        display: none
+    }
+    .main-platform::after {
+        display: none
+    }
+    .main-platform span {
+        display: none
+    }
+    .slider-carousel-1 .slide-btn {
+        padding-top: 25px
+    }
+    .detailHeader .innerMenu li a {
+        font-size: 20px
+    }
+    .detailHeader ul.menuBlock li a {
+        font-size: 15px
+    }
+    .platform-box::before {
+        display: none
+    }
+    .platform-box img {
+        width: auto!important;
+        display: inline-block!important
+    }
+    .main-platform {
+        height: auto;
+        padding: 40px 0
+    }
+    .main-seo .service-heading h3 {
+        font-size: 30px
+    }
+    .logo-design-port-filter ul li {
+        width: 33%
+    }
+    .list-group {
+        flex-direction: inherit;
+        flex-wrap: wrap
+    }
+    .logo-design-portfolio-sec {
+        padding: 40px 0
+    }
+    .pricing-main-sec .service-heading h3 {
+        font-size: 30px
+    }
+    .pricing-main-sec .portfolio-tab .nav-item::before {
+        display: none
+    }
+    .pricing-main-sec .portfolio-tab .nav-link {
+        font-size: 17px;
+        padding: 0 20px;
+        padding-bottom: 15px
+    }
+    .pricing-main-sec ul.nav.nav-tabs {
+        margin-bottom: 0
+    }
+    .pricing-main-sec .portfolio-tab {
+        padding-bottom: 0
+    }
+    .design-zone-info h5 {
+        font-size: 20px
+    }
+    .design-zone-info p {
+        line-height: 24px
+    }
+    .about-d-market-info {
+        margin-bottom: 25px
+    }
+    .mb-80 {
+        margin-bottom: 50px
+    }
+    .access-main-head h5 {
+        font-size: 35px
+    }
+    .access-content-box a {
+        display: none
+    }
+    .access-content-box p {
+        font-size: 17px
+    }
+    .team-img-box {
+        height: 230px
+    }
+    .team-img-box img {
+        width: auto!important;
+        display: inline-block!important
+    }
+    .contact-form {
+        margin-top: 30px
+    }
+    .call-us-box {
+        margin: 8px 0 0 0
+    }
+    .contact-btn-sbt {
+        padding: 15px 80px
+    }
+    .indus-inner-wrap1 img {
+        width: auto!important;
+        display: inline-block!important
+    }
+    .main-portfolio .portfolio-btn-2 img {
+        width: 7%
+    }
+    .pricing-details-left ul li:first-child a {
+    padding: 7px 33px;
+    }
+    .pricing-details-left ul li .liovechats-bx {
+    padding: 0 33px 4px;
+    }
+    .pricing-details-left ul li:first-child a {
+    padding: 13px 28px;
+    }
+    .detail_title {
+    padding: 40px 0 0px;
+    }
+    .pricing-details-left .sechead {
+    margin-left: 0px;
+    }
+    .main-privacy{
+        margin-top: unset !important;
+    }
+
+    .bottom{
+        width: 100%;
+    }
+    .vertical-tab .nav-tabs li{
+        display: inline-block;
+     }
+     ul.social_icons{
+         display: none;
+     }
+     #nav_header {
+        height: 100px;
+    }
+    .services_player_col{
+        max-width: unset !important;
+        flex: unset !important;
+        width: 50%;
+    }
+    .services_player_container > div > div:nth-child(2) > .services_player_box,
+    .services_player_container > div > div:nth-child(4) > .services_player_box,
+    .services_player_container > div > div:nth-child(6) > .services_player_box,
+    .services_player_container > div > div:nth-child(8) > .services_player_box{
+        background: unset;
+        box-shadow:none;
+        border: none;
+        border-radius: none;
+    }
+
+    .services_player_container > div > div:nth-child(1) > .services_player_box,
+    .services_player_container > div > div:nth-child(4) > .services_player_box,
+    .services_player_container > div > div:nth-child(5) > .services_player_box,
+    .services_player_container > div > div:nth-child(8) > .services_player_box{
+        background: white;
+        box-shadow: 0px 1px 9px #8080801f;
+        border: 1px solid #80808029;
+        border-radius: 10px;
+    }
+    .hori_tab .tab-content p {
+        font-size: 15px;
+        line-height: 22px;
+    }    
+}
+@media screen and (max-width:800px){
+    .all_card .slick-prev {
+        left: -10px;
+        z-index: 3;
+    }    
+    .all_card .slick-next {
+        right: 15px;
+        z-index: 3z;
+    }
+}
+@media screen and (max-width:768px) {
+    .slider-banner {
+        background-position: 63% 22%;
+        padding-top: 15px
+    }
+    .portfolio-text h3 {
+        font-size: 30px
+    }
+    .testi-carousel .owl-nav {
+        margin-top: 0
+    }
+    .testi-carousel .owl-nav button.owl-prev {
+        left: 0
+    }
+    .testi-carousel .owl-nav button.owl-next {
+        right: 0
+    }
+    .testi-carousel .owl-nav button {
+        position: relative;
+        top: 0;
+        transform: translateY(-100%)
+    }
+    .portfolio-tab .nav-item::before {
+        display: none
+    }
+    .portfolio-tab .nav-link {
+        font-size: 16px;
+        padding: 0 9px;
+        padding-bottom: 15px
+    }
+    .portfolio-tab {
+        padding-top: 40px;
+        padding-bottom: 0
+    }
+    .main-portfolio-animation .nav-tabs .nav-item::before {
+        display: none
+    }
+    .main-portfolio-animation .nav-tabs .nav-link {
+        font-size: 18px;
+        padding-bottom: 10px
+    }
+    .main-portfolio-animation ul {
+        padding-top: 20px;
+        padding-bottom: 0
+    }
+    .popup_top {
+        display: none
+    }
+    .entry-box {
+    background: 0 0;
+    box-shadow: none;
+     }
+    .text_topfr h4 {
+        font-size: 33px;
+    }
+    .container {
+        max-width: unset !important;
+        flex: unset !important;
+        width: 100% !important;
+    }
+    .hori_tab .nav-tabs {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .hori_tab .nav-tabs li a {
+        margin: 5px 4px;
+        z-index: 60;
+    }
+    .hori_tab .nav-tabs li a:after {
+        display: none;
+    }
+    .hori_tab .nav-tabs li a:before {
+        width: 50%;
+        height: 37px;
+        position: absolute;
+        top: -1px;
+        left: -1px;
+        z-index: -1;
+        border-radius: 0px 0px 32px 0;
+    }
+    .hori_tab .tab-content:before{
+        display: none;
+    }
+}
+@media only screen and (max-width: 700px){
+    .modal-box .modal-dialog {
+        width: 95%;
+    }
+}
+@media screen and (max-width:650px) 
+{
+   .footer-contact img {
+    width: 209px;
+    height: 73px;
+   }
+   .pac_tab .tab-content h3 {
+    font-size: 20px;
+}
+.pricingTable .pricing-content ul li {
+    font-size: 14px;
+    line-height: 20px;
+}
+}
+@media only screen and (max-width: 600px){
+    .form_box {
+        width: 90%;
+        margin: 26px auto;
+        position: relative;
+        top: 15px;
+    }
+    .copyright-left p {
+        font-size: 14px;
+    }
+    .copyright-left ul li a {
+        font-size: 14px;
+    }
+    .margin-cols{
+        margin: auto;
+        width: 70% !important;
+    }
+}
+@media screen and (max-width:767px) {
+    li.navicon span {
+        display: block !important;
+    }
+    .text_dis_in h1 {
+        font-size: 55px
+    }
+    .entry-box h1 {
+        font-size: 67px
+    }
+    .toggle-btn {
+        display: block!important
+    }
+    .top-contact ul li a span {
+        display: none
+    }
+    .slider-text h4 {
+        font-size: 30px;
+        line-height: 40px
+    }
+    .overlay-scroll-btn {
+        justify-content: center
+    }
+    .detailHeader.active {
+        text-align: center
+    }
+    .client-carousel {
+        height: 190px;
+        overflow: hidden
+    }
+    .service-heading h3 {
+        font-size: 36px
+    }
+    .serive-tab ul li .nav-link {
+        width: 100%
+    }
+    .cta-btn {
+        display: none
+    }
+    .main-service {
+        padding-bottom: 0
+    }
+    .ready-text h3 {
+        font-size: 30px
+    }
+    .ready-text p {
+        font-size: 14px
+    }
+    .ready-btn {
+        display: none
+    }
+    .ready-work-contact .cta-contact ul li:last-child {
+        border: none
+    }
+    .transforming-tab .nav-tabs {
+        padding: 20px 0;
+        justify-content: center;
+        padding-bottom: 0
+    }
+    .transforming-tab .nav-tabs .nav-item {
+        margin-right: 30px;
+        margin-bottom: 20px
+    }
+    .transforming-tab .nav-tabs .nav-link {
+        padding: 10px 40px
+    }
+    .transforming-tab ul li a span {
+        font-size: 14px
+    }
+    .testi-carousel .owl-nav button {
+        position: absolute;
+        top: 60%;
+        transform: translateY(-50%)
+    }
+    .testi-carousel .owl-nav button.owl-prev {
+        left: -75px
+    }
+    .testi-carousel .owl-nav button.owl-next {
+        right: -75px
+    }
+    .service-heading p {
+        font-size: 15px
+    }
+    .service-heading p {
+        font-size: 14px
+    }
+    .platform-box p {
+        padding: 24px 0;
+        font-size: 14px
+    }
+    .main-platform {
+        height: 410px
+    }
+    .agency-text h3 {
+        font-size: 21px
+    }
+    .slider-carousel-1 .slide-btn {
+        padding-top: 10px
+    }
+    .top-contact ul li a i {
+        padding-right: 10px;
+        padding-left: 10px
+    }
+    .main-seo {
+        height: auto;
+        padding: 40px 0;
+        padding-top: 40px
+    }
+    .main-platform {
+        height: auto;
+        padding: 40px 0
+    }
+    .logo-design-port-filter ul li {
+        width: 50%
+    }
+    .desin-zone-main-box {
+        text-align: center
+    }
+    .desin-zone-main-box img {
+        width: auto!important;
+        display: inline-block!important
+    }
+    .price-design-head h3 {
+        font-size: 44px
+    }
+    .price-design-zone-sec {
+        padding: 40px 0
+    }
+    .access-main-head h5 {
+        font-size: 26px
+    }
+    .service-heading h2 {
+        font-size: 35px;
+    }
+    .service-heading h3 {
+        font-size: 28px
+    }
+    .about-accessable-sec .row {
+        margin-left: 0;
+        margin-right: 0
+    }
+    .access-content-box p {
+        font-size: 19px
+    }
+    .contact-banner-img {
+        padding: 40px 0
+    }
+    .review-hd-cont h2 {
+        font-size: 27px
+    }
+    .indus-col:hover {
+        box-shadow: 0 1rem 3rem transparent!important
+    }
+    .pacakge-details.det-packages {
+    margin-top: 30px;
+    margin-bottom: 0px;
+    }
+    .testi-box {
+        height: 340px;
+    }
+    div.img_box{
+        left: 122px;
+    }
+}
+@media screen and (max-width:567px) {
+    .popup_top {
+        display: none
+    }
+    .testi-heading h3{ font-size: 25px !important;}
+    .hide{
+        display: none;
+    }
+   
+    .popup_top {
+        display: none
+    }
+    .testi-carousel .owl-nav button.owl-prev {
+        display: none
+    }
+    .testi-carousel .owl-nav button.owl-next {
+        display: none
+    }
+    .copyright-left {
+        text-align: center
+    }
+    .copyright-left ul {
+        display: block
+    }
+    .soical-right {
+        justify-content: center;
+        margin-top: 10px
+    }
+    .website .service-heading h3 {
+        font-size: 26px
+    }
+    .main-industries .service-heading h3 {
+        font-size: 23px
+    }
+    .industrie-number::before {
+        display: none
+    }
+    .industrie-number {
+        text-align: left
+    }
+    .main-industries .row {
+        margin-left: 0
+    }
+    .price-design-zone-sec .row {
+        margin-right: 0;
+        margin-left: 0
+    }
+    .team-sec .row {
+        margin-right: 0;
+        margin-left: 0
+    }
+    .entry-box {
+        width: 60%!important;
+        height: 557px
+    }
+    .text_topfr h4 {
+        font-size: 26px
+    }
+    .text_topfr h2 {
+        font-size: 27px
+    }
+
+    .text_topfr h4 {
+        font-size: 33px;
+    }
+    span.borderss {
+        width: 60%;
+    }
+    span.borderss-circle {
+        width: 30%;
+    }
+    .number_col{
+        max-width: unset !important;
+        flex: unset !important;
+        width: 50% !important;
+    }
+    .industrie-point-col{
+        max-width: unset !important;
+        flex: unset !important;
+        width: 50% !important;
+    }
+    .service-heading h2 {
+        font-size: 25px;
+    }
+}
+@media screen and (max-width:500px){
+    div.img_box {
+        left: 81px;
+    }
+    .modal-box .modal-dialog .modal-content .modal-body {
+        padding: unset !important;
+    }
+    .modal-box .modal-dialog .modal-content .modal-body .icon:before {
+        left: 0px;
+    }
+    .modal-box .modal-dialog .modal-content .modal-body .icon {
+        margin: unset;
+        display: block;
+        text-align: left;
+        margin-left: 18px;
+        margin-top: 10px;
+    }
+    .modal-box .modal-dialog .modal-content .modal-body .title {
+        text-align: left;
+        line-height: 25px;
+        letter-spacing: 7px;
+        font-size: 21px;
+        position: relative;
+        left: 25px;
+        margin-top: 20px;
+    }
+    .modal-box .modal-dialog .modal-content .modal-body .description {
+        text-align: left;
+        line-height: 26px;
+        padding-left: 26px;
+    }
+    .form_box {
+        width: 95%;
+        padding: 22px 23px;
+    }
+    .form_box span {
+        margin-bottom: 13px;
+        font-size: 22px;
+    }
+    .icon_box input {
+        height: 46px;
+    }
+    .icon_box i {
+        font-size: 26px;
+        padding: 8px 10px;
+    }
+    .form_box .btn_contact {
+        padding: 17px 72px;
+        margin-top: unset;
+    }
+    .form_box .btn_contact {
+        padding: 17px 51px;
+        margin-top: unset;
+    }
+    .form_box span {
+        font-size: 19px;
+    }
+    .bottom {
+        height: 110px;
+    }
+    .margin-cols{
+        width: 90% !important;
+    }
+    .pac_tab .nav-tabs li a {
+        padding: 12px 10px;
+        font-size: 13px;
+    }
+    .pac_scd_tab .nav-tabs li a {
+        padding: 12px 19px;
+        margin: 2px 1px;
+        font-size: 14px;
+        letter-spacing: 2px;
+    }
+    .pac_scd .row > .margin-cols{
+        width: 100% !important;
+    }
+    .ser_player_head_box {
+        margin: 50px 0 25px 0;
+    }
+    .ser_player_head_box h4 {
+        font-size: 30px;
+    }
+    .ser_player_head_box p {
+        font-size: 20px;
+    }
+    .services_player_col{
+        max-width: unset !important;
+        flex: unset !important;
+        width: 90%;
+    }
+    .services_player_container > div > div:nth-child(4) > .services_player_box,
+    .services_player_container > div > div:nth-child(8) > .services_player_box{
+        background: none;
+        box-shadow: none;
+        border: none;
+        border-radius: none;
+    }
+    .services_player_container > div > div:nth-child(1) > .services_player_box,
+    .services_player_container > div > div:nth-child(3) > .services_player_box,
+    .services_player_container > div > div:nth-child(7) > .services_player_box,
+    .services_player_container > div > div:nth-child(9) > .services_player_box{
+        background: white;
+        box-shadow: 0px 1px 9px #8080801f;
+        border: 1px solid #80808029;
+        border-radius: 10px;
+    }
+    .hori_tab .tab-content {
+        padding: 0px 15px;
+    }
+    .hori_tab .tab-content h3 {
+        font-size: 22px;
+        letter-spacing: 1px;
+        line-height: 32px;
+    }
+    .hori_tab .tab-content p {
+        font-size: 13px;
+        line-height: 18px;
+    }
+    .hori_tab .tab-content .content_scd_box ul > li {
+        font-size: 11px;
+        line-height: 20px;
+        letter-spacing: 0px;
+        padding: 0px 4px 0px 5px;
+    }
+}
+@media only screen and (max-width:481px){
+    .form-container .form-horizontal .form-group{ width: 100%; }
+
+    .form-container .signin-link{
+        width: 100%;
+        margin: 0 10px 15px;
+    }
+    .modal-dialog{ width: 95% !important; }
+    .agency-box-img {
+        display: block;
+    }
+    .agency_span {
+        width: 75%;
+    }
+    .agency-box-img {
+        padding-top: 50px;
+    }
+    .agency-text h3 {
+        line-height: 24px;
+        font-size: 17px;
+    }
+    .slider-banner {
+        height: 400px;
+    }
+    .slider-banner {
+        padding-top: 0px;
+    }
+    .slider-text h4 {
+        font-size: 20px;
+        line-height: 25px;
+    }
+    .slider-text h3 span {
+        font-size: 25px;
+    }
+    .slider-text p {
+        font-size: 15px;
+    }
+    .button span {
+        display: block;
+        padding: 10px 8px;
+        font-size: 13px;
+    }
+    .cta-contact ul li a p {
+        font-size: 10px;
+    }
+    .cta-contact ul li a p {
+        font-size: 10px;
+    }
+    .cta-contact ul li i {
+        padding-right: 5px;
+        font-size: 9px;
+    }
+    .ser_player_head_box h4 {
+        font-size: 22px;
+    }
+}
+@media screen and (max-width:425px){
+    .mobile_header{
+        padding-left: unset;
+        padding-right: 34px;
+    }
+}
+@media screen and (max-width:480px) {
+    .popup_top {
+        display: none
+    }
+    .service-heading h3 {
+        font-size: 30px
+    }
+    .cta-contact ul li i {
+        padding-right: 7px;
+        font-size: 14px
+    }
+    .cta-contact ul li a span {
+        font-size: 11px
+    }
+    .portfolio-text h3 {
+        font-size: 20px
+    }
+    .portfolio-text h2 {
+        font-size: 18px
+    }
+    .portfolio-btn {
+        padding: 14px 23px
+    }
+    .ready-work-contact .cta-contact ul li i {
+        display: none
+    }
+    .ready-work-contact .cta-contact {
+        justify-content: center
+    }
+    .transforming-tab .nav-tabs .nav-item {
+        margin-right: 8px;
+        margin-bottom: 15px
+    }
+    .top-contact ul li a {
+        padding-left: 8px;
+        padding-right: 9px;
+        border-right: none
+    }
+    .slider-text h3 {
+        font-size: 20px
+    }
+    .slider-carousel-1 .slider-text h4 {
+        font-size: 37px;
+        line-height: 54px
+    }
+    .agency-text h3 {
+        line-height: 38px
+    }
+    .main-platform .row {
+        margin-left: 0
+    }
+    .main-platform {
+        height: auto;
+        padding: 40px 0
+    }
+    .main-seo .service-heading h3 {
+        font-size: 32px
+    }
+    .pricing-main-sec .portfolio-tab .nav-link {
+        font-size: 16px;
+        padding: 0 14px;
+        padding-bottom: 15px
+    }
+    .pricing-main-sec .service-heading h3 {
+        font-size: 19px
+    }
+    .digi-vision-box h5 {
+        font-size: 20px
+    }
+    .access-main-head h5 {
+        font-size: 21px
+    }
+    .contact-btn-sbt {
+        padding: 15px 80px
+    }
+    .main-portfolio-animation .nav-tabs .nav-link {
+        font-size: 18px;
+        padding: 0 15px;
+        padding-bottom: 10px
+    }
+    .price-design-head h3 {
+        font-size: 35px
+    }
+    .review-hd-cont h2 {
+        font-size: 25px
+    }
+    .review-hd-cont p {
+        font-size: 13px;
+        line-height: 23px
+    }
+    .industry-reviews .row {
+        margin-left: 0;
+        margin-right: 0
+    }
+    .entry-box {
+        width: 65%!important
+    }
+    .slide-btn {
+        width: 45%;
+    }
+    .slide-btn .fa-arrow-right {
+        font-size: 22px;
+    }
+    .industrie-number p {
+        font-size: 16px;
+    }
+    .industrie-number h3 {
+        font-size: 23px;
+    }
+}
+@media screen and (max-width:414px) {
+    .popup_top {
+        display: none
+    }
+    .client-carousel .row {
+        margin-left: 0
+    }
+    .service-heading h3 {
+        font-size: 24px
+    }
+    .service-heading p {
+        font-size: 15px
+    }
+    .serive-tab ul li .nav-link {
+        width: 75%
+    }
+    .cta-contact ul li i {
+        display: none
+    }
+    .portfolio-text h3 {
+        font-size: 17px
+    }
+    .portfolio-text h2 {
+        font-size: 15px
+    }
+    .portfolio-text p {
+        padding-top: 10px;
+        padding-bottom: 20px;
+        font-size: 15px
+    }
+    .portfolio-btn {
+        padding: 12px 15px;
+        margin-right: 14px;
+        font-size: 13px
+    }
+    .portfolio-btn-2 img {
+        padding-left: 3px;
+        width: 15%
+    }
+    .ready-text p {
+        font-size: 13px
+    }
+    .transforming-tab .nav-tabs .nav-link img {
+        display: none
+    }
+    .transforming-tab ul li a span br {
+        display: none
+    }
+    .transforming-tab ul li a span {
+        padding-left: 0
+    }
+    .transforming-tab .nav-tabs .nav-link {
+        padding: 10px 20px
+    }
+    .testi-heading h3 {
+        font-size: 45px
+    }
+    .footer-quick-link ul {
+        padding-top: 10px;
+        padding-left: 0
+    }
+    .footer-quick-link {
+        padding-top: 5px
+    }
+    .quick-link {
+        padding-left: 0
+    }
+    .ready-work-contact .cta-contact ul li a span {
+        font-size: 11px
+    }
+    .top-contact ul li a {
+        padding-left: 0;
+        padding-right: 7px;
+        border-right: none
+    }
+    .slider-text h3 {
+        font-size: 17px
+    }
+    .main-design-portfolio {
+        padding: 40px 0;
+        padding-bottom: 40px
+    }
+    .service-heading h2 {
+        font-size: 25px
+    }
+    .logo-design-port-filter ul li {
+        width: 100%;
+        font-size: 12px;
+        padding-left: 0
+    }
+    .pricing-main-sec .portfolio-tab .nav-link {
+        font-size: 15px;
+        padding: 0 9px;
+        padding-bottom: 15px
+    }
+    .pricing-main-sec .service-heading h3 {
+        font-size: 16px
+    }
+    .price-design-head h3 {
+        font-size: 33px
+    }
+    .about-d-market-info h5 {
+        font-size: 38px
+    }
+    .testi-heading h3{ font-size: 20px !important;}
+    section.about-accessable-sec {
+        padding: 40px 0
+    }
+    .contact-btn-sbt {
+        padding: 15px 80px
+    }
+    .main-portfolio-animation .nav-tabs .nav-link {
+        font-size: 15px
+    }
+    .review-hd-cont h2 {
+        font-size: 20px
+    }
+    .entry-box {
+        width: 70%!important
+    }
+    .text_topfr h2 {
+    font-size: 23px;
+}
+.text_topfr h4 {
+    font-size: 23px;
+}
+.pricing-details-left ul li .liovechats-bx {
+    margin-left: 0;
+}
+div.img_box {
+    left: 50px !important;
+}
+}
+@media screen and (max-width:375px) {
+    .popup_top {
+        display: none
+    }
+    .top-contact ul li a {
+        padding-left: 0;
+        padding-right: 0;
+        border-right: none
+    }
+    .slider-text h4 {
+        font-size: 25px;
+        line-height: 35px
+    }
+    .slider-text p {
+        padding-right: 10px;
+        font-size: 16px
+    }
+    .cta-contact ul li {
+        padding-right: 7px;
+        padding-left: 7px
+    }
+    .portfolio-text h3 {
+        font-size: 22px
+    }
+    .portfolio-btn {
+        padding: 12px 11px;
+        margin-right: 8px;
+        font-size: 12px
+    }
+    .ready-text h3 {
+        font-size: 21px
+    }
+    .ready-work-contact .cta-contact ul li {
+        padding-right: 6px;
+        padding-left: 6px
+    }
+    .ready-work-contact .cta-contact ul li a span {
+        font-size: 11px
+    }
+    .ready-work-contact .cta-contact ul li a p {
+        font-size: 11px
+    }
+    .transforming-tab .nav-tabs .nav-link {
+        padding: 9px 13px
+    }
+    .slider-carousel-1 .slider-text h4 {
+        font-size: 32px;
+        line-height: 51px
+    }
+    .portfolio-tab .nav-link {
+        font-size: 15px;
+        padding: 0 7px;
+        padding-bottom: 15px
+    }
+    .main-seo .service-heading h3 {
+        font-size: 27px
+    }
+    .main-seo .service-heading {
+        padding-bottom: 45px
+    }
+    .slider-carousel-1 .slider-text h4 {
+        line-height: 42px
+    }
+    .work-img {
+        height: auto
+    }
+    .contact-btn-sbt {
+        padding: 15px 80px
+    }
+    .text_topfr h2 {
+        font-size: 24px
+    }
+    .text_topfr h4 {
+        font-size: 23px
+    }
+    .entry-box {
+        width: 80%!important
+    }
+    .floating_wrap .float_form_box {
+        display: none
+    }
+    .slide-btn {
+        width: 55%;
+    }
+    .testi-box{
+        height: 374px;
+    }
+    div.img_box span {
+        left: 114%;
+        font-size: 13px;
+    }
+    div.img_box {
+        left: 30px !important;
+    }
+}
+@media screen and (max-width: 323px){
+    .mobile_header {
+        padding-left: unset;
+        padding-right: 27px;
+    }
+    .mobile_header{
+        padding-right: 18px
+    }
+}
+@media screen and (max-width:360px) {
+    .popup_top {
+        display: none
+    }
+    .cta-contact ul li a p {
+        font-size: 11px
+    }
+    .cta-contact ul li a span {
+        font-size: 11px
+    }
+    .cta-contact ul li {
+        padding-right: 6px;
+        padding-left: 5px
+    }
+    .portfolio-btn-2 img {
+        padding-left: 1px;
+        width: 12%
+    }
+    .ready-work-contact .cta-contact ul li {
+        padding-right: 4px;
+        padding-left: 4px
+    }
+    .testi-heading h3 {
+        font-size: 39px
+    }
+    .portfolio-tab .nav-link {
+        padding: 0 5px;
+        padding-bottom: 15px
+    }
+}
+@media screen and (max-width:434px){
+    .bottom{height: 100px;}
+    .hori_tab .nav-tabs li a {
+        padding: 8px 13px;
+        font-size: 13px;
+    }
+}
+@media screen and (max-width:321px) {
+    .hc-nav-trigger span {
+        width: 21px !important;
+    }
+    .popup_top {
+        display: none
+    }
+    .slider-text h3 {
+        font-size: 21px
+    }
+    .slider-text h4 {
+        font-size: 22px
+    }
+    .slide-btn img {
+        width: 19%!important;
+        padding-left: 10px
+    }
+    .client-text h3 {
+        font-size: 15px
+    }
+    .view-btn {
+        padding: 8px 11px
+    }
+    .service-heading h3 {
+        font-size: 20px
+    }
+    .portfolio-btn {
+        padding: 11px 8px;
+        margin-right: 3px;
+        font-size: 11px
+    }
+    .portfolio-btn-2 {
+        font-size: 10px
+    }
+    .transforming-tab ul li a span {
+        font-size: 12px
+    }
+    .transforming-tab .nav-tabs .nav-link {
+        padding: 9px 10px
+    }
+    .copyright-left p {
+        font-size: 10px
+    }
+    .slider-carousel-1 .slider-text h4 {
+        font-size: 27px;
+        line-height: 44px
+    }
+    .cta-contact ul li {
+        border-right: none;
+        display: block;
+        padding-bottom: 6px
+    }
+    .cta-contact ul li a p {
+        font-size: 12px
+    }
+    .ready-work-contact .cta-contact {
+        justify-content: left
+    }
+    .ready-work-contact .cta-contact ul li {
+        border-right: none;
+        display: block
+    }
+    .ready-work-contact .cta-contact ul li a span {
+        font-size: 12px
+    }
+    .main-industries .row {
+        margin-left: 0;
+        margin-right: 0
+    }
+    .industrie-number-responsive-slider {
+        margin: 0 -15px!important
+    }
+    .industrie-number {
+        text-align: center
+    }
+    .point-wrap-responsive-slider {
+        margin: 0 -15px!important
+    }
+    .industrie-point ul li {
+        justify-content: center
+    }
+    .agency-text h3 {
+        font-size: 18px;
+        line-height: 35px
+    }
+    .price-design-head h3 {
+        font-size: 26px
+    }
+    .digi-vision-box h5 {
+        font-size: 16px
+    }
+    .digi-vision-box p {
+        font-size: 13px;
+        padding-right: 9px;
+        line-height: 20px
+    }
+    .contact-btn-sbt {
+        padding: 15px 80px
+    }
+    .text_topfr h2 {
+    font-size: 22px;
+}
+.text_topfr h4 {
+    font-size: 22px;
+}
+.hori_tab .nav-tabs li {
+    margin: auto;
+    width: 100%;
+}
+}
+@media(max-width: 575px)
+{
+    .foot{
+        width: unset !important;
+    }
+    .footer_con{
+        padding-left: 16px !important;
+        padding-right: unset !important;
+    }
+}
+@media(max-width: 280px){
+    .slide-btn {
+        width: 91%;
+}
+}
+@media only screen and (max-width: 479px){
+    .combo_tabs .nav-tabs{
+        padding: 0;
+        margin: 0 0 10px;
+        border-bottom: none;
+        border-left: 3px solid #4ba6ed;
+    }
+    
+    .combo_tabs .nav-tabs li{
+        width: 100%;
+        text-align: center;
+    }
+
+    .combo_tabs .nav-tabs li a{ margin: 0 0 5px; }
+    .hori_tab .nav-tabs li{
+        text-align: center;
+        margin: 0 2px;
+        padding: 0;
+    }
+    .hori_tab .nav-tabs li a {
+        margin-bottom: 5px;
+    }
+    .hori_tab .nav-tabs li a:after{
+        margin: 0 auto;
+        bottom: -30px;
+        left: 0;
+        right: 0;
+    }
+    .hori_tab .tab-content:before{
+        width: 0;
+        padding: 0;
+        border: none;
+    }
+}
